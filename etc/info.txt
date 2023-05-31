@@ -1,0 +1,8 @@
+influxdb id : admin
+influxdb password: tdVXuaknO1GbO3FNstVsFZDyPI3MdCBY
+
+10.111.233.99:80
+org : 8b1bfc63e1f3a4f8
+bucket=cpp_curl
+bucket_id=2b095df7d1cd2d54
+token : wjekXomKdcaKiRl7AYUeDTmMGWkHd-I-lwuk3V1F28x5uLSCtaUpspQnEOZXlpnnkQIWAAWB75Fu1U7g9R6iFQ==

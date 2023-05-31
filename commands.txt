@@ -1,0 +1,2 @@
+g++ [C++ 파일 이름].cpp -ljsoncpp -lcurl
+./a.out
