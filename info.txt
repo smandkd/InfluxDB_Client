@@ -1,0 +1,2 @@
+influxdb id : admin
+influxdb password: tdVXuaknO1GbO3FNstVsFZDyPI3MdCBY
